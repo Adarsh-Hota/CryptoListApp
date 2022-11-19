@@ -1,4 +1,4 @@
-# NewsReader App
+# CryptoList
 
 A Flutter-based app that displays the most recent crypto currencies stats.
 
