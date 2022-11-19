@@ -1,16 +1,29 @@
-# crypto_list_app
+# NewsReader App
 
-A new Flutter project.
+A Flutter-based app that displays the most recent crypto currencies stats.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td>Home Screen</td>
+     <td>Home Screen Scrolled</td>
+     <td>Home Screen Scrolled 02</td>
+  </tr>
+  <tr>
+    <td><img src="/readMeImages/home_screen.png" title="Home Screen" width="250" height="460"/></td>
+    <td> <img src="/readMeImages/home_screen_scrolled.png" title="Home Screen Scrolled" width="250" height="460"/> </td>
+    <td> <img src="/readMeImages/home_screen_scrolled_02.png" title="Home Screen Scrolled 02" width="250" height="460"/></td>
+  </tr>
+ </table>
 
-A few resources to get you started if this is your first Flutter project:
+# Technologies used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- GetX
+- REST API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Attributions
+
+- All crypto data acquired from api.coingecko.com website's APIs.
+  
